@@ -1,0 +1,43 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "bankai minizuki.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Daniel",
+      "empresa": "Codigo Con Juan",
+      "email": "daniel@juan.com",
+      "telefono": "31983913",
+      "notas": "Quiere un Hijo.",
+      "id": 3
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "jojo",
+      "id": 5
+    },
+    {
+      "nombre": "Andrés Ladino Monroy",
+      "empresa": "cell shop",
+      "email": "andresladino1305@gmail.com",
+      "telefono": "3118428832",
+      "notas": "Cliente desea un trabajo.",
+      "id": 6
+    }
+  ]
+}
